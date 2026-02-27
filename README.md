@@ -20,4 +20,7 @@ I am a passionate IT student at Xavier University, driven by my curiosity for te
 ## 🏆 Achievements
 - 🌟 Completed Git & GitHub Setup 2026
 
+## Fun Fact
+- I like collecting little things that remind me of meaningful moments, like ticket stubs or notes from friends.
+
 Thanks for stopping by!
