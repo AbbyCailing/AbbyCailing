@@ -1,7 +1,7 @@
 # Hi, I'm <Abegail Cailing>! 👋
 
 I am a passionate IT student at Xavier University, driven by my curiosity for technology. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
-![<AbbyCailing>'s Stats](https://github-readme-stats.vercel.app/api?AbbyCailing=<AbbyCailing>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![AbbyCailing's Stats](https://github-readme-stats.vercel.app/api?username=AbbyCailing&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 - 🔭 I'm currently pursuing my Bachelor's Degree in Information Technology at Xavier University.
