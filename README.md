@@ -21,6 +21,6 @@ I am a passionate IT student at Xavier University, driven by my curiosity for te
 - 🌟 Completed Git & GitHub Setup 2026
 
 ### ✨ Fun Fact
-I enjoy learning cybersecurity and building web projects.
+I love cats.
 
 Thanks for stopping by!
